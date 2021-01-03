@@ -1,1 +1,1 @@
-![An image of Sven Böhner](https://www.haldex.com/globalassets/global/haldex_logo.png)
+![An image of Haldex Logo](https://www.haldex.com/globalassets/global/haldex_logo.png)
