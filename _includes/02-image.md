@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![An image of Sven Böhner](https://www.haldex.com/globalassets/global/haldex_logo.png)
